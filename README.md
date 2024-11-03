@@ -1,4 +1,4 @@
-Overview of the Analysis = 
+Overview of the Analysis - 
 This analysis aims to develop a deep learning model that predicts the success of Alphabet Soup's charitable funding efforts. The goal is to create a model that accurately classifies potential recipients of funding as likely to be successful or unsuccessful, enabling more informed and efficient allocation of resources.
 
 Results
