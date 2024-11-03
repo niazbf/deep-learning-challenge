@@ -16,10 +16,14 @@ What variable(s) should be removed from the input data because they are neither 
 Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-I had selected 43 neurons and 3 layers and relu.
+I had selected 43 neurons and 3 layers and relu/sigmoid.
 
 Were you able to achieve the target model performance?
-Yes, 1% improved.
+Yes, 0.3% improved.
 
 What steps did you take in your attempts to increase model performance?
- I increased the amount of features by increasing application type and included 200 and above and classification anything more than 20. I tested 59 neurons, 4 layers, and sigmoid.
+I tried 4 different ways to increase performance. I increased the amount of features by increasing application type and included 200 and above and classification anything more than 20. I tested 59 neurons, 4 layers, and relu as the activation.
+
+Summary: For this type of data, accuracy of 72-73% is good enough. 
+I suggest another model type that could perform well for this classification problem, such as a Random Forest classifier. I recommend this model because of its suitability for structured data or ease of interpretability.
+
